@@ -101,4 +101,4 @@ Once the dependencies are installed, you can run npm start to start the applicat
 <br>
 
 ## Contact
-Created by [Dor Romano](https://www.linkedin.com/in/dor-romano-164667197/) - feel free to contact me!
+Created by [Gal Nehser](https://www.linkedin.com/in/gal-nesher-153a881a3/) - feel free to contact me!
