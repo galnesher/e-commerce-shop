@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital@1&display=swap');
+body{
+  font-family: 'Ubuntu';
+}
+
+.card{
+  width: 14rem;
+}
+.card img{
+  height: 30vh;
+}
+
+.card-title{
+  height: 8vh;
+  font-size: 1.2rem;
+}
+.cartImage{
+  width: 5rem;
+}
+
+.bg-gray{
+  background-color: #989898;
+}
+
+.loadingIcon{
+  width: 100px;
+}
+
+.btnMyOrange{
+    background-color: #f0c040;
+}
+
+.Logo {
+  background-image: url(./Images/logo.png);
+  width: 120px;
+  height: 80px;
+}
+
+.navLogo{
+  width: 100px;
+  height: 80px;
+}
+
+
+
+/* Container needed to position the button. Adjust the width as needed */
+.containerImg  {
+  position: relative;
+}
+
+/* Make the image responsive */
+.containerImg img {
+  width: 100%;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.containerImg .btn {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  color: whitesmoke;
+  font-size: 16px;
+  padding: 7px 15px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.containerImg  .btn:hover {
+  background-color: black;
+}
+.homeImg{
+  height: auto;
+}
+
+
+@media only screen and (max-width: 537px) {
+  .card {
+   margin-left: 3.0rem ;
+
+  }
+}
