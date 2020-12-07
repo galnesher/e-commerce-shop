@@ -1,7 +1,7 @@
 # Ecommerce Shop
-[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://dors-ecommerce-shop-2020.web.app/)
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://gals-ecommerce-shop.web.app/)
 ---
->Implented MERN Stack CRUD Operations with React, Node.js, MongoDB and Express.
+>Implemented MERN Stack CRUD Operations with React, Node.js, MongoDB and Express.
 
 
 ## Table of contents
@@ -50,7 +50,7 @@ redux-thunk: ^2.3.0 |
 
 ## Setup
 ---
-### Demo Live: https://dors-ecommerce-shop-2020.web.app/
+### Demo Live: https://gals-ecommerce-shop.web.app/
 <br>
 
 Clone this repo to your desktop and run npm install to install all the dependencies.
