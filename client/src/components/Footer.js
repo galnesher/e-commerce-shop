@@ -32,7 +32,7 @@ export default class Footer extends Component {
                 </div>
 
                 <div className="footer-copyright text-center py-3">
-                    © 2020 Copyright: Dor Romano
+                    © 2020 Copyright: Gal Nesher
                 </div>
 
             </footer>
